@@ -1,5 +1,7 @@
 # vscode-ts-check
 
+## Update: I've created a [VSCode extension](https://marketplace.visualstudio.com/items?itemName=beeinger.ts-live-checks) instead, works even better!
+
 Solution for VSCode that enables project wide typescript checking
 
 Typescript in VSCode defaultly checks only the files that are currently opened in the editor, nothing else.
